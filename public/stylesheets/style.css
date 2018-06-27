@@ -1,0 +1,10 @@
+body {
+  padding: 50px;
+  font: 14px var(--font-family-sans-serif);
+  background: var(--very-dark-blue);
+  color: var(--white);
+}
+
+a {
+  color: var(--vivid-cyan);
+}
